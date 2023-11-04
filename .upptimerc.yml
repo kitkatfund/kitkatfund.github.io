@@ -1,31 +1,56 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: kitkatfund # Your GitHub organization or username, where this repository lives
+repo: kitkatfund.github.io # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: KitKat 
+    url: https://www.kitkat.zone
+  - name: KitKat Explorer
+    url: https://explorer.kitkat.zone
+  - name: KitKat Docs
+    url: https://docs.kitkat.zone
+  - name: Archway API
+    url: https://archway-api.kitkat.zone/cosmos/auth/v1beta1/params
+  - name: Archway RPC
+    url: https://archway-rpc.kitkat.zone
+  - name: BitCanna API
+    url: https://bitcanna-api.kitkat.zone/cosmos/auth/v1beta1/params
+  - name: BitCanna RPC
+    url: https://bitcanna-rpc.kitkat.zone
+  - name: CosmosHub API
+    url: https://cosmos-api.kitkat.zone/cosmos/auth/v1beta1/params
+  - name: CosmosHub RPC
+    url: https://cosmos-rpc.kitkat.zone
+  - name: Crescent API
+    url: https://crescent-api.kitkat.zone/cosmos/auth/v1beta1/params
+  - name: Crescent RPC
+    url: https://crescent-rpc.kitkat.zone
+  - name: Quasar API
+    url: https://quasar-api.kitkat.zone/cosmos/auth/v1beta1/params
+  - name: Quasar RPC
+    url: https://quasar-rpc.kitkat.zone
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.kitkat.zone
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/kitkatfund/kitkat-assets/main/kitkat-logo-light.ico
+  name: KitKat Services Status
+  favicon: https://raw.githubusercontent.com/kitkatfund/kitkat-assets/main/kitkat-logo-light.ico
+  introTitle: "KitKat Services Status"
+  introMessage: The uptime status and history of all chain infra nodes hosted by KitKat can be found here.
   navbar:
+    - title: Home
+      href: https://www.kitkat.zone
+    - title: Explorer
+      href: https://explorer.kitkat.zone
+    - title: Docs
+      href: https://docs.kitkat.zone
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

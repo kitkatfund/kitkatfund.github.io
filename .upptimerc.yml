@@ -17,10 +17,6 @@ sites:
     url: https://bitcanna-api.kitkat.zone/cosmos/auth/v1beta1/params
   - name: BitCanna RPC
     url: https://bitcanna-rpc.kitkat.zone
-  - name: CosmosHub API
-    url: https://cosmos-api.kitkat.zone/cosmos/auth/v1beta1/params
-  - name: CosmosHub RPC
-    url: https://cosmos-rpc.kitkat.zone
   - name: Crescent API
     url: https://crescent-api.kitkat.zone/cosmos/auth/v1beta1/params
   - name: Crescent RPC

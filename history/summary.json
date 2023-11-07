@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/archway-api.kitkat.zone.ico",
     "slug": "archway-api",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.31%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 378,
     "timeDay": 474,
     "timeWeek": 378,
     "timeMonth": 378,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-11-07": 15
+      "2023-11-07": 28
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/archway-rpc.kitkat.zone.ico",
     "slug": "archway-rpc",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.32%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 370,
     "timeDay": 396,
     "timeWeek": 370,
     "timeMonth": 370,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2023-11-07": 15
+      "2023-11-07": 28
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitcanna-api.kitkat.zone.ico",
     "slug": "bit-canna-api",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.32%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 366,
     "timeDay": 422,
     "timeWeek": 366,
     "timeMonth": 366,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-11-07": 15
+      "2023-11-07": 28
     }
   },
   {
@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitcanna-rpc.kitkat.zone.ico",
     "slug": "bit-canna-rpc",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.32%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 461,
     "timeDay": 487,
     "timeWeek": 461,
     "timeMonth": 461,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2023-11-07": 15
+      "2023-11-07": 28
     }
   },
   {
@@ -139,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosmos-api.kitkat.zone.ico",
     "slug": "cosmos-hub-api",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.32%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 444,
     "timeDay": 386,
     "timeWeek": 444,
     "timeMonth": 444,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2023-11-07": 15
+      "2023-11-07": 28
     }
   },
   {
@@ -159,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosmos-rpc.kitkat.zone.ico",
     "slug": "cosmos-hub-rpc",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.32%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 371,
     "timeDay": 442,
     "timeWeek": 371,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-11-07": 15
+      "2023-11-07": 28
     }
   },
   {
@@ -179,19 +179,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/crescent-api.kitkat.zone.ico",
     "slug": "crescent-api",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 413,
     "timeDay": 438,
     "timeWeek": 413,
     "timeMonth": 413,
     "timeYear": 413,
-    "dailyMinutesDown": {
-      "2023-11-07": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Crescent RPC",
@@ -199,38 +197,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/crescent-rpc.kitkat.zone.ico",
     "slug": "crescent-rpc",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 332,
     "timeDay": 328,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {
-      "2023-11-07": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Quasar API",
     "url": "https://quasar-api.kitkat.zone/cosmos/auth/v1beta1/params",
     "icon": "https://icons.duckduckgo.com/ip3/quasar-api.kitkat.zone.ico",
     "slug": "quasar-api",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 356,
-    "timeDay": 405,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 368,
+    "timeDay": 418,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-11-07": 15
+      "2023-11-07": 27
     }
   },
   {
@@ -238,19 +234,19 @@
     "url": "https://quasar-rpc.kitkat.zone",
     "icon": "https://icons.duckduckgo.com/ip3/quasar-rpc.kitkat.zone.ico",
     "slug": "quasar-rpc",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 368,
-    "timeDay": 479,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 377,
+    "timeDay": 462,
+    "timeWeek": 377,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-11-07": 14
+      "2023-11-07": 27
     }
   }
 ]

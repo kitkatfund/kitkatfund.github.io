@@ -1,7 +1,7 @@
 url: https://cosmos-rpc.kitkat.zone
-status: up
-code: 200
-responseTime: 499
-lastUpdated: 2023-11-06T23:05:28.271Z
+status: down
+code: 502
+responseTime: 385
+lastUpdated: 2023-11-07T06:20:03.754Z
 startTime: 2023-11-04T10:30:05.763Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://cosmos-api.kitkat.zone/cosmos/auth/v1beta1/params
-status: up
-code: 200
-responseTime: 327
-lastUpdated: 2023-11-16T23:04:06.537Z
+status: down
+code: 502
+responseTime: 405
+lastUpdated: 2023-11-17T21:01:49.558Z
 startTime: 2023-11-08T12:55:13.286Z
 generator: Upptime <https://github.com/upptime/upptime>

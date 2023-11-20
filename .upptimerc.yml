@@ -25,6 +25,10 @@ sites:
     url: https://quasar-api.kitkat.zone/cosmos/auth/v1beta1/params
   - name: Quasar RPC
     url: https://quasar-rpc.kitkat.zone
+  - name: Quicksilver API
+    url: https://quicksilver-api.kitkat.zone/cosmos/auth/v1beta1/params
+  - name: Quicksilver RPC
+    url: https://quicksilver-rpc.kitkat.zone
 
 
 status-website:

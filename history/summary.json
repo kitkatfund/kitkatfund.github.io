@@ -218,19 +218,19 @@
     "url": "https://quicksilver-api.kitkat.zone/cosmos/auth/v1beta1/params",
     "icon": "https://icons.duckduckgo.com/ip3/quicksilver-api.kitkat.zone.ico",
     "slug": "quicksilver-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 330,
-    "timeDay": 341,
-    "timeWeek": 330,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "status": "up",
+    "uptime": "96.16%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "96.16%",
+    "time": 328,
+    "timeDay": 334,
+    "timeWeek": 328,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2023-11-23": 0
+      "2023-11-23": 130
     }
   },
   {
@@ -238,19 +238,19 @@
     "url": "https://quicksilver-rpc.kitkat.zone",
     "icon": "https://icons.duckduckgo.com/ip3/quicksilver-rpc.kitkat.zone.ico",
     "slug": "quicksilver-rpc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 424,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "status": "up",
+    "uptime": "96.16%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "96.16%",
+    "time": 351,
+    "timeDay": 389,
+    "timeWeek": 351,
+    "timeMonth": 351,
+    "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-11-23": 0
+      "2023-11-23": 130
     }
   }
 ]

@@ -1,7 +1,7 @@
 url: https://archway-api.kitkat.zone/cosmos/auth/v1beta1/params
-status: up
-code: 200
-responseTime: 383
-lastUpdated: 2023-11-25T23:04:05.396Z
+status: down
+code: 502
+responseTime: 406
+lastUpdated: 2023-11-26T03:13:11.405Z
 startTime: 2023-11-04T10:30:00.441Z
 generator: Upptime <https://github.com/upptime/upptime>

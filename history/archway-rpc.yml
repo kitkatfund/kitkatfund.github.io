@@ -1,7 +1,7 @@
 url: https://archway-rpc.kitkat.zone
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2023-12-02T23:03:47.286Z
+status: down
+code: 502
+responseTime: 426
+lastUpdated: 2023-12-03T03:13:16.260Z
 startTime: 2023-11-04T10:30:01.416Z
 generator: Upptime <https://github.com/upptime/upptime>

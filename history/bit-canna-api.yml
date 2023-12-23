@@ -1,7 +1,7 @@
 url: https://bitcanna-api.kitkat.zone/cosmos/auth/v1beta1/params
-status: down
-code: 502
-responseTime: 284
-lastUpdated: 2023-12-23T01:17:27.199Z
+status: up
+code: 200
+responseTime: 310
+lastUpdated: 2023-12-23T02:00:14.349Z
 startTime: 2023-11-04T10:30:02.407Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://crescent-api.kitkat.zone/cosmos/auth/v1beta1/params
-status: up
-code: 200
-responseTime: 296
-lastUpdated: 2023-12-27T23:06:15.332Z
+status: down
+code: 502
+responseTime: 267
+lastUpdated: 2023-12-28T02:04:03.639Z
 startTime: 2023-11-04T10:30:06.773Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -4,19 +4,19 @@
     "url": "https://www.kitkat.zone",
     "icon": "https://icons.duckduckgo.com/ip3/www.kitkat.zone.ico",
     "slug": "kit-kat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 975,
-    "timeDay": 819,
-    "timeWeek": 999,
-    "timeMonth": 981,
-    "timeYear": 975,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 966,
+    "timeDay": 660,
+    "timeWeek": 926,
+    "timeMonth": 961,
+    "timeYear": 966,
     "dailyMinutesDown": {
-      "2024-01-01": 0
+      "2024-01-01": 13
     }
   },
   {

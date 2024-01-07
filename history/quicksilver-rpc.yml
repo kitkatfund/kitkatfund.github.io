@@ -1,7 +1,7 @@
 url: https://quicksilver-rpc.kitkat.zone
-status: up
-code: 200
-responseTime: 360
-lastUpdated: 2024-01-06T23:04:43.867Z
+status: down
+code: 502
+responseTime: 268
+lastUpdated: 2024-01-07T04:00:46.576Z
 startTime: 2023-11-20T21:06:35.081Z
 generator: Upptime <https://github.com/upptime/upptime>

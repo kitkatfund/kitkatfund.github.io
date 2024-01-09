@@ -9,10 +9,6 @@ sites:
     url: https://explorer.kitkat.zone
   - name: KitKat Docs
     url: https://docs.kitkat.zone
-  - name: Archway API
-    url: https://archway-api.kitkat.zone/cosmos/auth/v1beta1/params
-  - name: Archway RPC
-    url: https://archway-rpc.kitkat.zone
   - name: BitCanna API
     url: https://bitcanna-api.kitkat.zone/cosmos/auth/v1beta1/params
   - name: BitCanna RPC

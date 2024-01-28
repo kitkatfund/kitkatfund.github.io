@@ -1,7 +1,7 @@
 url: https://quicksilver-api.kitkat.zone/cosmos/auth/v1beta1/params
-status: down
-code: 502
-responseTime: 402
-lastUpdated: 2024-01-27T23:06:38.609Z
+status: up
+code: 200
+responseTime: 291
+lastUpdated: 2024-01-28T12:16:13.477Z
 startTime: 2023-11-20T21:06:34.363Z
 generator: Upptime <https://github.com/upptime/upptime>

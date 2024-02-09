@@ -13,10 +13,6 @@ sites:
     url: https://bitcanna-api.kitkat.zone/cosmos/auth/v1beta1/params
   - name: BitCanna RPC
     url: https://bitcanna-rpc.kitkat.zone
-  - name: Crescent API
-    url: https://crescent-api.kitkat.zone/cosmos/auth/v1beta1/params
-  - name: Crescent RPC
-    url: https://crescent-rpc.kitkat.zone
   - name: Quasar API
     url: https://quasar-api.kitkat.zone/cosmos/auth/v1beta1/params
   - name: Quasar RPC

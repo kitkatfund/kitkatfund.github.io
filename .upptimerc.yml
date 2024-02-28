@@ -9,10 +9,18 @@ sites:
     url: https://explorer.kitkat.zone
   - name: KitKat Docs
     url: https://docs.kitkat.zone
+  - name: Archway API
+    url: https://archway-api.kitkat.zone/cosmos/auth/v1beta1/params
+  - name: Archway RPC
+    url: https://archway-rpc.kitkat.zone
   - name: BitCanna API
     url: https://bitcanna-api.kitkat.zone/cosmos/auth/v1beta1/params
   - name: BitCanna RPC
     url: https://bitcanna-rpc.kitkat.zone
+  - name: Omniflix API
+    url: https://omniflix-api.kitkat.zone/cosmos/auth/v1beta1/params
+  - name: Omniflix RPC
+    url: https://omniflix-rpc.kitkat.zone
   - name: Quasar API
     url: https://quasar-api.kitkat.zone/cosmos/auth/v1beta1/params
   - name: Quasar RPC

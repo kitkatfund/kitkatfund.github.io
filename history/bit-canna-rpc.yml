@@ -1,7 +1,7 @@
 url: https://bitcanna-rpc.kitkat.zone
-status: up
-code: 200
-responseTime: 422
-lastUpdated: 2024-03-23T23:04:01.786Z
+status: down
+code: 502
+responseTime: 445
+lastUpdated: 2024-03-24T02:08:19.858Z
 startTime: 2023-11-04T10:30:03.403Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://quasar-api.kitkat.zone/cosmos/auth/v1beta1/params
-status: down
-code: 502
-responseTime: 323
-lastUpdated: 2024-08-02T04:08:22.034Z
+status: up
+code: 200
+responseTime: 438
+lastUpdated: 2024-08-02T04:32:07.058Z
 startTime: 2023-11-04T10:30:08.821Z
 generator: Upptime <https://github.com/upptime/upptime>

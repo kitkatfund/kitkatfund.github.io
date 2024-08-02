@@ -1,7 +1,7 @@
 url: https://quasar-rpc.kitkat.zone
-status: up
-code: 200
-responseTime: 341
-lastUpdated: 2024-08-01T23:07:17.962Z
+status: down
+code: 502
+responseTime: 414
+lastUpdated: 2024-08-02T04:08:24.940Z
 startTime: 2023-11-04T10:30:09.739Z
 generator: Upptime <https://github.com/upptime/upptime>
